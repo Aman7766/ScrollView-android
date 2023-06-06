@@ -6,7 +6,7 @@
     <h2>Screenshots</h2>
     <div class="screenshot">
   <img width="200" alt="Screenshot1" src="https://github.com/Aman7766/ScrollView-android/assets/51900622/7b26ec36-e8b9-4b30-8ff8-19f6f3070199"> 
-  <img width="700" height="413" alt="Screenshot 2023-06-06 at 6 02 38 PM" src="https://github.com/Aman7766/ScrollView-android/assets/51900622/05a71de8-08cd-4ee6-91a8-1744aed48bd6">
+  <img width="650" height="413" alt="Screenshot 2023-06-06 at 6 02 38 PM" src="https://github.com/Aman7766/ScrollView-android/assets/51900622/05a71de8-08cd-4ee6-91a8-1744aed48bd6">
 </div>
     <div class="screenshot">
  </div>

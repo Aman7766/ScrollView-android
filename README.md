@@ -15,7 +15,7 @@
         To install and run the app:
     </p>
     <ol>
-        <li>Clone this repository: <code>git clone https://github.com/Aman7766/ScrollView-android</code></li>
+        <li>Clone this repository: <code>https://github.com/Aman7766/ScrollView-android</code></li>
         <li>Open the project in <a href="https://developer.android.com/studio">Android Studio</a>.</li>
         <li>Build and run the app.</li>
     </ol>
